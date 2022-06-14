@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "655769698632",
+    "project_id": "ak-enterprise-co-ltd",
+    "storage_bucket": "ak-enterprise-co-ltd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655769698632:android:fd4a65b897f83ca02ff37d",
+        "android_client_info": {
+          "package_name": "com.kzn.ak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655769698632-ipg6j1jikcbg4n4qms9uj6eqdvcc7dvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.ak",
+            "certificate_hash": "16727ee184f84e424d41e321d3c3defe08e67480"
+          }
+        },
+        {
+          "client_id": "655769698632-iqjpr5p3mpsgo4dachujo22l190bkbho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kzn.ak",
+            "certificate_hash": "e17daea38df4a03ba76494856f8094fe5d27d6f8"
+          }
+        },
+        {
+          "client_id": "655769698632-83stibklilpt284f1k8v41tb5vlcfuas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDarKNb76j9a3jqBvZJV9jq0x_QiameJRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655769698632-83stibklilpt284f1k8v41tb5vlcfuas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
